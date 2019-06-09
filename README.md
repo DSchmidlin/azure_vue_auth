@@ -14,4 +14,4 @@ Once you clone this repo you will need the following pieces of information added
 ## Application id
 Once you have created an application in Azure AD B2C you can find your application id under the 'Applications' section.
 
-[(./docs/apiexample.png)]
+[(docs/apiexample.png)]
